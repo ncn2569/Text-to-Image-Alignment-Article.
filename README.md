@@ -1,6 +1,6 @@
 # Text-to-Image Prompt Alignment — Survey & Analysis
 
-A course project (AI Capstone) from Ho Chi Minh City University of Technology (HCMUT),
+A course project from Ho Chi Minh City University of Technology (HCMUT),
 analyzing state-of-the-art methods for improving semantic alignment between text prompts 
 and generated images in diffusion-based Text-to-Image models.
 
